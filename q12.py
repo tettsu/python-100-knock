@@ -1,0 +1,1 @@
+print(open("python.txt").read().count("by"))
