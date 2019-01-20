@@ -1,10 +1,10 @@
 #coding:utf-8
 print("現在の時刻を「18:45」のように入力してください")
-current_time = raw_input(">>")
+current_time = input(">>")
 print("提示を「17:00」のように入力してください")
-out_time = raw_input(">>")
+out_time = input(">>")
 print("1時間あたりの残業代（円）を「1500」のように入力してください")
-hour_money = float(raw_input(">>"))
+hour_money = float(input(">>"))
 
 current_h = float(current_time[0:2])
 current_m = float(current_time[3:5])
