@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is a test of the emergency text system
-=======
-This is a test of the emergency text system.This is a test of the emergency text system.
->>>>>>> 552381dfe053bf28484908c776f10f6f8f17524e
