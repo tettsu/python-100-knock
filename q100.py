@@ -14,5 +14,5 @@ def double_substring(line):
     else :
         return print('無いよ')
 
-double_substring('aaaaaaa')
+double_substring('aaaaaa')
 double_substring('abcdefg')
